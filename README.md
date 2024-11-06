@@ -4,7 +4,7 @@ Schematic and PCB design for an ESP32, specifically a Wemos Lolin D2 mini shield
 
 ## Why?
 
-My wife frequently purchases cheap battery/USB monochrome string lights on clearance at stores locally. I wanted to be able to take advantage of these lights to automate them in my home automation system.
+My wife frequently purchases cheap battery/USB monochrome string lights at stores locally or online retailers such as Aliexpress. I wanted to be able to take advantage of these lights to automate them in my home automation system, namely a set we have covering our curtains that I would like to toggle based on sunset. https://www.aliexpress.com/item/1005007634861597.html
 
 I was looking for a device to satisfy the following requirements:
 * The device should be able to control at least one set of string lights.
