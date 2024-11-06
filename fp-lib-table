@@ -1,0 +1,4 @@
+(fp_lib_table
+  (version 7)
+  (lib (name "esp32_led")(type "KiCad")(uri "${KIPRJMOD}/esp32_led.pretty")(options "")(descr ""))
+)

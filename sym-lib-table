@@ -1,0 +1,5 @@
+(sym_lib_table
+  (version 7)
+  (lib (name "esp32_led")(type "KiCad")(uri "${KIPRJMOD}/esp32_led.kicad_sym")(options "")(descr ""))
+  (lib (name "haunter")(type "KiCad")(uri "${KIPRJMOD}/haunter.kicad_sym")(options "")(descr ""))
+)
